@@ -1,0 +1,12 @@
+# Word temporary files
+~$*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Large temporary outputs
+*.log
